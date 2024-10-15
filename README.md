@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gruvbox&text=Touhou%20the%20engineer&fontColor=b3b3b3&fontSize=80)
 
 # Nice to see you.
-Here is my stack what I use and study  
+This is my Notion Log  
+https://bit.ly/th-logging  
+And here is my stack what I use and study  
 
 **| Language**  
 
