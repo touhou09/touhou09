@@ -2,7 +2,7 @@
 
 # Nice to see you.
 This is my Notion Log  
-https://velog.io/@toho09
+https://velog.io/@toho09  
 And here is my stack what I use and study  
 
 **| Language**  
