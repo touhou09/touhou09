@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gruvbox&text=Touhou%20the%20engineer&fontColor=b3b3b3&fontSize=80)
 
 # Nice to see you.
+
+- I`m currently working on Data Engineer
+
 This is my Blog  
 https://velog.io/@toho09  
 And here is my stack what I use and study  
@@ -15,12 +18,12 @@ And here is my stack what I use and study
 
 **| Data**  
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">  <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/ScyllaDB-#CD5E7?style=for-the-badge&logo=scyllaDB&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">  <img src="https://img.shields.io/badge/bigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=white">
 
 
 **| Infra**  
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Kubernates-blue?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"> <img src="https://img.shields.io/badge/Deltalake-003366?style=for-the-badge&logo=delta&logoColor=white"> <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
 
 
 <!--
