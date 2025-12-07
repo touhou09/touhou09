@@ -4,8 +4,6 @@
 
 - I`m currently working on Data Engineer
 
-This is my Blog  
-https://velog.io/@toho09  
 And here is my stack what I use and study  
 
 **| Language**  
